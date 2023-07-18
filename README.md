@@ -1,5 +1,5 @@
 # ai-discord-bot
-This is a Discord Bot that utilises both the Discord API and OpenAI's ChatGPT API. You can add this bot into a Discord Server and it will be able to respond to any user! 
+This is a Discord Bot that utilises both the Discord API and OpenAI's ChatGPT API. You can add this bot into a Discord Server and you will be able to have a conversation with it with your friends!
 
 To utilise this bot, you must first complete the following steps:
 - Go to the Discord Developer Portal and sign up to receive access to the Discord Developer portal, there you can receive your own custom token.
